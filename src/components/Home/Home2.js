@@ -13,39 +13,41 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
-              <br />
-              <br />
-              I’m proficient in
-              <i>
-                <b className="purple">
-                  {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
-                </b>
-              </i>
-              — and I enjoy working across both backend and frontend stacks.
-              <br />
-              <br />
-              My key areas of interest include developing
-              <i>
-                <b className="purple">
-                  {" "}
-                  Web Applications, Blockchain Solutions,{" "}
-                </b>
-              </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
-              <br />
-              <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
-              <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
-              </i>
-            </p>
+  I’m a Full Stack Developer who loves transforming ideas into responsive,
+  scalable web applications. I enjoy building user-friendly interfaces and
+  reliable backend systems that solve real-world problems.
+  <br />
+  <br />
+  I’m proficient in
+  <i>
+    <b className="purple">
+      {" "}
+      HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Node.js, and Express.js{" "}
+    </b>
+  </i>
+  — and I enjoy working across both frontend and backend development.
+  <br />
+  <br />
+  My key areas of interest include developing
+  <i>
+    <b className="purple">
+      {" "}
+      Full Stack Web Applications, MERN Stack Projects,{" "}
+    </b>
+  </i>
+  and creating fast, accessible, and modern user experiences.
+  <br />
+  <br />
+  Whenever possible, I love building projects with
+  <b className="purple"> React.js </b> and{" "}
+  <b className="purple">Next.js</b> on the frontend and{" "}
+  <i>
+    <b className="purple">Node.js</b> and{" "}
+    <b className="purple">MongoDB</b> on the backend.
+  </i>
+</p>
+
+
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
